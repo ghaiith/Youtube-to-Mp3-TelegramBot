@@ -91,6 +91,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This bot is provided as-is and without any warranty. Use it at your own risk. The developers are not responsible for any misuse or legal issues that may arise from using this bot to convert copyrighted content without permission.
 
----
-
-Replace this section with any specific instructions or notes you'd like to provide to users of your bot. For example, you could include information on how to deploy the bot to a server or any additional configurations that may be required.
