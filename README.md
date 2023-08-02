@@ -1,7 +1,7 @@
 # YouTube to MP3 Telegram Bot
 
 This is a simple Telegram bot that allows you to send a YouTube link, and the bot will convert the video to MP3 and send it back to you.
-![alt text](https://github.com/ghaiith/Youtube-to-Mp3-TelegramBot/blob/main/Example.PNG)
+![Image Example](https://github.com/ghaiith/Youtube-to-Mp3-TelegramBot/blob/main/Example.PNG | width=100)
 ## Getting Started
 
 ### Prerequisites
