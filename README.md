@@ -79,9 +79,51 @@ The bot will now be running and ready to receive YouTube links.
 
 Please note that the bot will delete the downloaded MP4 and MP3 files after processing to save storage space.
 
+
 ## Contributing
 
-Contributions to this project are welcome! If you encounter any bugs, have suggestions for improvements, or would like to add new features, feel free to contribute. Please see the [Contribution Guidelines](CONTRIBUTING.md) for more details.
+Contributions to this project are welcome! If you encounter any bugs, have suggestions for improvements, or would like to add new features, feel free to contribute. Here's how you can get started:
+
+1. **Fork the Repository**: Click the "Fork" button at the top right corner of this repository to create your copy.
+
+2. **Clone the Repository**: Clone the forked repository to your local machine using the following command (replace `[YOUR_USERNAME]` with your GitHub username):
+
+   ```
+   git clone https://github.com/[YOUR_USERNAME]/youtube-to-mp3-bot.git
+   ```
+
+3. **Create a New Branch**: Move into the repository's directory and create a new branch for your changes:
+
+   ```
+   cd youtube-to-mp3-bot
+   git checkout -b my-feature
+   ```
+
+4. **Make Changes**: Make your desired changes to the codebase.
+
+5. **Commit Your Changes**: After making changes, commit them with a descriptive commit message:
+
+   ```
+   git add .
+   git commit -m "Add new feature" (replace with your message)
+   ```
+
+6. **Push Changes**: Push your changes to your forked repository:
+
+   ```
+   git push origin my-feature (replace with your branch name)
+   ```
+
+7. **Create a Pull Request**: Go to the original repository (https://github.com/OpenAI/Youtube-to-mp3-bot) and click on the "Pull Request" button. Fill in the details of your pull request and submit it for review.
+
+8. **Discuss and Review**: Once you've created a pull request, the maintainers of the repository will review your changes. Be prepared to address any feedback or comments.
+
+9. **Merge**: If everything looks good and your changes are approved, they will be merged into the main repository.
+
+Please ensure that your contributions adhere to the project's coding guidelines and are respectful to all members of the community.
+
+Thank you for contributing to this project! Your efforts help make it better for everyone. If you have any questions or need help with the contribution process, feel free to open an issue or reach out to the maintainers.
+
 
 ## License
 
