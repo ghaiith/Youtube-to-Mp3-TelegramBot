@@ -45,9 +45,9 @@ To use this bot, you need to create a Telegram bot and obtain the API token. Fol
    1234567890:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnop
    ```
 
-5. Copy the API token and paste it into the `TOKEN` variable in the code of your bot (`bot.py`). Replace `'YOUR_TELEGRAM_BOT_TOKEN'` with the token you obtained.
+5. Copy the API token and paste it into the `TOKEN` variable in the code of your bot (`main.py`). Replace `'YOUR_TELEGRAM_BOT_TOKEN'` with the token you obtained.
 
-6. Now, your bot is ready to use! Start the bot by running the Python script (`bot.py`) as mentioned in the "Running the Bot" section.
+6. Now, your bot is ready to use! Start the bot by running the Python script (`main.py`) as mentioned in the "Running the Bot" section.
 
 Remember to keep your API token private and do not share it with anyone you don't trust. If you accidentally leak the token or suspect that it has been compromised, you can regenerate a new token by talking to the BotFather and using the `/token` command for your bot.
 
